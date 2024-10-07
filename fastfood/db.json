@@ -1,0 +1,31 @@
+{
+    "pizza": [
+        {
+            "info":"سوسیسگوشت ، سوسیس مرغ",
+            "title": "پیتزا مخصوص",
+            "img": "./img/p.chiken.jfif",
+            "price": "3000"
+        },
+        {
+            "info":"پپرونی، پنیر ",
+            "title": "پیتزا پپرونی",
+            "img": "./img/p.chiken.jfif",
+            "price": "5000"
+        }
+    ],
+    "sundcich":
+    [
+        {  
+            "info":"نون، گوشت ، خیار ، گوجه",
+            "title":"برگر",
+            "img": "./img/p.chiken.jfif",
+            "price": "6544"
+        },
+        {
+            "info":"نون، گوشت ، خیار ، گوجه،پنیر",
+            "title":"چیز برگر",
+            "img": "./img/p.chiken.jfif",
+            "price": "9145"
+        }
+    ]
+}
